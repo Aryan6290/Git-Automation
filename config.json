@@ -1,0 +1,8 @@
+{
+    "user":"aryanbarnwal007@gmail.com",
+    "password":"rpzhXTyAgkC65zB",
+    "url":"https://github.com/login",
+    "repoName": "Git Automation",
+    "repoDescription":"A script made using Nodejs and Puppeteer. It automates user login and creates a repo with the info inside the config.json file"
+
+}
