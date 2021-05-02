@@ -18,4 +18,4 @@ to install the required node modules , and then run
 in your integrated terminal.
 
 #Demo
-![Demo](https://user-images.githubusercontent.com/55250734/116809672-d1cac580-ab5c-11eb-9266-825ccccdb2e7.mp4)
+![Demo](https://user-images.githubusercontent.com/55250734/116810198-09873c80-ab60-11eb-8931-38e5b3e2705a.gif)
