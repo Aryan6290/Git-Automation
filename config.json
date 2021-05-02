@@ -1,6 +1,6 @@
 {
     "user":"Your github username",
-    "password":"supersecretpassword",
+    "password":"yoursupersecretpassword",
     "url":"https://github.com/login",
     "repoName": "Name of your repo",
     "repoDescription":"Description of your repo"
