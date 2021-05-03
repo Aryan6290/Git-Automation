@@ -1,5 +1,8 @@
 # Git-Automation
 
+[![Contributors](https://img.shields.io/github/contributors/Aryan6290/Git-Automation.svg)](https://github.com/Aryan6290/Git-Automation/graphs/contributors) [![Forks](https://img.shields.io/github/forks/Aryan6290/Git-Automation.svg)](https://github.com/Aryan6290/Git-Automation/network/members) [![Issues](https://img.shields.io/github/issues/Aryan6290/Git-Automation.svg)](https://github.com/Aryan6290/Git-Automation/issues) [![Pull Request](https://img.shields.io/github/issues-pr-closed-raw/Aryan6290/Git-Automation)](https://github.com/Aryan6290/Git-Automation/pulls)
+
+
 A script made using Nodejs and Puppeteer. It automates user login and creates a repo with the info inside the config.json file.
 
 ## How to use it?
